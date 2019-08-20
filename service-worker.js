@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.40df12240b9fe702fa2f68eaa2c91b6b.js"
+  "/precache-manifest.0e3c7143ba374f12595068a0df916cda.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuetstraining"});
